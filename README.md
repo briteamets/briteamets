@@ -8,11 +8,11 @@ Third-year IT Systems Development student at **TalTech**. I build backend system
 - 🌐 **Also:** Communications Manager & IT Admin at MTÜ Droonilabor
 
 ## Tech I use
-**Languages:** Java, C#, C++, Python, TypeScript, JavaScript
-**Backend & web:** Spring Boot, ASP.NET Core, Vue 3, REST APIs
-**Data:** PostgreSQL, SQLite, SQL, ERD modelling
-**Autonomous systems:** ROS 2, CAN, MATLAB/Simulink
-**Tools:** Git, Docker, Linux, Jira, Confluence
+- **Languages:** Java · C# · C++ · Python · TypeScript · JavaScript · PHP
+- **Backend & web:** Spring Boot · ASP.NET Core · Vue 3 · REST APIs
+- **Data:** PostgreSQL · SQLite · SQL · ERD modelling
+- **Autonomous systems:** ROS 2 · CAN · MATLAB/Simulink
+- **Tools:** Git · Docker · Linux · Jira · Confluence
 
 ## Projects
 - **Beauty Salon Booking System:** https://github.com/briteamets/beautybook booking platform with ASP.NET Core API, Vue 3 client, JWT auth and role-based areas
