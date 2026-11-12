@@ -15,7 +15,7 @@ Third-year IT Systems Development student at **TalTech**. I build backend system
 **Tools:** Git, Docker, Linux, Jira, Confluence
 
 ## Projects
-- **Beauty Salon Booking System:** full-stack app with ASP.NET Core, Vue 3 and PostgreSQL. It has JWT auth, role-based access, payments and tests.
+- **Beauty Salon Booking System:** https://github.com/briteamets/beautybook booking platform with ASP.NET Core API, Vue 3 client, JWT auth and role-based areas
 - **Pharmacy Management SaaS:** a multi-tenant platform with REST APIs and role-based authorisation.
 - **Connect-X Game:** a Connect-4 extension in C# with a console and web UI. It has configurable boards and a Minimax AI with alpha-beta pruning.
 
